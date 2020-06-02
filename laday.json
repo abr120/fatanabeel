@@ -7,23 +7,5 @@
  	 "abrahemm20007.wordpress.com",
       "alfatyalnbeel"
     ]
-  },
-  {
-     "title":"عدنان ولينا",
-    "provider":"wordpress",
-    "image":"https://raw.githubusercontent.com/abr120/ahdalasdqa/master/21.jpg",
-     "arguments":[ 
- 	 "yoodkkaa.wordpress.com",
-      "adnanwlena"
-    ]
-  },
-      {
-  "title":"مغامرات سندباد",
-    "provider":"wordpress",
-    "image":"https://raw.githubusercontent.com/abr120/ahdalasdqa/master/14.jpg",
-     "arguments":[ 
- 	 "yoodkkaa.wordpress.com",
-      "sinidebaad"
-    ]
   }
 ]
